@@ -4119,7 +4119,7 @@ var defaultOptions = {
     kind: OptionKind.VIEWER + OptionKind.PREFERENCE
   },
   defaultUrl: {
-    value: 'siemens-2013-learning-analytics-the-emergence-of-a-discipline.pdf',
+    value: 'SwansonEtAl-2022-LeveragingCluster.pdf',
     kind: OptionKind.VIEWER
   },
   defaultZoomValue: {
